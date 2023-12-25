@@ -1,0 +1,74 @@
+.header-pic {
+  background: url("/public/imagez/dog-pet.webp") center center/cover no-repeat;
+  height: 40vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  object-fit: cover;
+}
+
+.product-item-container {
+  background-color: #161a2e;
+  height: 100%;
+}
+
+.product {
+  padding: 10px;
+  padding-bottom: 80px;
+  width: 100%;
+}
+
+.product p {
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  color: white;
+  margin-inline: 150px;
+}
+
+.product-item-container h1 {
+  color: rgb(255, 255, 255);
+  padding: 30px;
+  text-decoration-line: underline;
+  font-size: 3rem;
+}
+
+.product-item-container h2 {
+  color: rgb(255, 255, 255);
+  margin-left: 150px;
+  padding-bottom: 20px;
+}
+
+.product-item-container button {
+  margin-top: 20px;
+  margin-left: 150px;
+}
+
+@media screen and (max-width: 768px) {
+  .product-item-container h1 {
+    font-size: 2rem;
+  }
+
+  .product-item-container h2 {
+    margin-left: 0px;
+    text-align: center;
+  }
+
+  .product {
+    padding: 0px;
+    padding-bottom: 80px;
+  }
+
+  .product p {
+    text-align: center;
+    margin-inline: 20px;
+  }
+
+  .product-item-container button {
+    margin-left: 0px;
+    width: 106px;
+  }
+}
