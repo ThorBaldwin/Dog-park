@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/Dog-park/static/css/main.1c0c1d5c.css",
-    "main.js": "/Dog-park/static/js/main.1a84a6f7.js",
-    "static/media/child-dog.jpg": "/Dog-park/static/media/child-dog.593f8dbd275519ed0691.jpg",
-    "static/media/girl-dog-happy.jpg": "/Dog-park/static/media/girl-dog-happy.33f4b6c6fd98a3ee339c.jpg",
-    "static/media/dog-pet.jpg": "/Dog-park/static/media/dog-pet.d0aee5476bd749a1e034.jpg",
-    "static/media/puppypeak.jpg": "/Dog-park/static/media/puppypeak.9dc96f2b13f81be82f8e.jpg",
-    "static/media/play-dog.webp": "/Dog-park/static/media/play-dog.a599f85253b0f002bd0a.webp",
+    "main.css": "/Dog-park/static/css/main.653deb56.css",
+    "main.js": "/Dog-park/static/js/main.45c9737f.js",
+    "static/media/girl-dog-happy.webp": "/Dog-park/static/media/girl-dog-happy.08138a74c0d477ca987d.webp",
+    "static/media/child-dog.webp": "/Dog-park/static/media/child-dog.0504e4d844350528de57.webp",
+    "static/media/dog-pet.webp": "/Dog-park/static/media/dog-pet.204f6e7d7b58d8714a95.webp",
+    "static/media/puppypeak.webp": "/Dog-park/static/media/puppypeak.9478ebd673bc09d5c51b.webp",
     "index.html": "/Dog-park/index.html",
-    "main.1c0c1d5c.css.map": "/Dog-park/static/css/main.1c0c1d5c.css.map",
-    "main.1a84a6f7.js.map": "/Dog-park/static/js/main.1a84a6f7.js.map"
+    "main.653deb56.css.map": "/Dog-park/static/css/main.653deb56.css.map",
+    "main.45c9737f.js.map": "/Dog-park/static/js/main.45c9737f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c0c1d5c.css",
-    "static/js/main.1a84a6f7.js"
+    "static/css/main.653deb56.css",
+    "static/js/main.45c9737f.js"
   ]
 }
